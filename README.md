@@ -1,2 +1,2 @@
 # spooky recipe static site
-# ![hungry skeleton](img/eating-ghost.gif")
+![hungry skeleton](img/eating-ghost.gif)
