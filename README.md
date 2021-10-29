@@ -1,2 +1,2 @@
-# odin-recipes
-# becoming more comfortable with plain html/css by completing this project
+# spooky recipe static site
+# ![hungry skeleton](/img/eating-ghost.gif")
